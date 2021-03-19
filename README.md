@@ -44,8 +44,8 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<img width="434px" src="https://github-readme-stats.vercel.app/api?username=brunolaviso&hide=issues" />
-<img width="434px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunolaviso&langs_count=8"/>
+<img width="434px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brunolaviso&hide=issues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+<img width="434px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brunolaviso&layout=compact&langs_count=8&theme=dracula"/>
 
 ### How to reach me:
 
