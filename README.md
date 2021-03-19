@@ -44,8 +44,9 @@ Here are some ideas to get you started:
 <br>
 <br>
 <a href="https://github.com/brunolaviso">
-  <img width="434px" src="https://github-readme-stats-eight-theta.vercel.app/api?                   username=brunolaviso&hide=issues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-</a>  
+  <img width="434px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brunolaviso&hide=issues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+</a>
+<br>
 <a href="https://github.com/brunolaviso">
   <img width="434px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brunolaviso&layout=compact&langs_count=8&theme=dracula"/>
 </a>
