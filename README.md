@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### I am Bruno Henrique Laviso Adorne. Welcome to my github!
 
 - 📚 I am student of computer science at the UNISAGRADO (Centro Universitário Sagrado Coração).  
-- 💻 Front-end and mobile developer [Clube Agro](https://www.clubeagro.com.br/).
+- 💻 Front-end developer [Clube Agro](https://www.clubeagro.com.br/).
 - 🎧 In love about code and music.
 
 ## Technologies
