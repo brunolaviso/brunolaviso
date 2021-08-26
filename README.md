@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 <div text-align="justify">
   <img src="https://img.shields.io/badge/html%205-orange?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS%203-5188FE?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Js-FFDC0B?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/Ts-3276E6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-FFDC0B?style=for-the-badge&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/typescript-3276E6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/node.js-026e00?style=for-the-badge&logo=node.js&logoColor=fff" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/next.js-111111?style=for-the-badge&logo=next.js&logoColor=fff" />
